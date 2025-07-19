@@ -9,5 +9,8 @@ Ultra-lightweight (5kb) JavaScript frame-by-frame animation library
 
 # Example
 
-See `example/index.html`
-Will require running http-server locally, due to Chrome's CORS
+See `example`
+
+# Notes
+
+For local testing, it will require running http-server locally, due to Chrome's CORS
