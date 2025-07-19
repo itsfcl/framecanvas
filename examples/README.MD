@@ -4,8 +4,8 @@ Swords spawn in random locations when you click the black box
 
 # Usage
 
--Run `runexample.bat`
--Minimize the console window and try it out!
+- Run `runexample.bat`
+- Minimize the console window and try it out!
 
 # Notes
 
